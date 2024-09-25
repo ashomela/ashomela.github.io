@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ashomela.github.io/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/app/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/assets/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/css/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/data/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/includes/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/item/sitemap.vendestu.gz
+Sitemap: https://ashomela.github.io/src/sitemap.vendestu.gz
